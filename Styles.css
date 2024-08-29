@@ -1,12 +1,12 @@
 body {
-    background-color: hsla(192, 13%, 46%, 0.301); /* light gray background */
+    background-color: hsla(192, 13%, 46%, 0.301); 
 }
 
 .gallery-container {
     max-width: 800px;
     margin: 40px auto;
     text-align: center;
-    background-color: #93a8ac; /* white background for gallery */
+    background-color: #93a8ac; 
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 10px;
@@ -38,7 +38,7 @@ body {
     color: #fff;
     border: none;
     padding: 10px 20px;
-    font-size: 24px; /* increased font size for arrow buttons */
+    font-size: 24px; 
     cursor: pointer;
 }
 
